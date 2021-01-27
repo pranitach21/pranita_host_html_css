@@ -1,0 +1,51 @@
+ *{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.jumbotron {
+	width: 100%;
+	height: 140px;
+	text-align: center;
+	font-family: Bradley Hand ITC;
+}
+.cont{
+	margin-left: 5%;
+}
+.cont .abc h5{
+	margin-left: 5%: 
+}
+.cont .abc .imgs img {
+	border: 1px solid black;
+	width: 200px;
+	height: 250px;
+	border-radius: 50%;
+}
+.cont .abc hr {
+	width: 30%;
+}
+.cont .abc h3 {
+	font-family: Segoe Print;
+}
+.cont .abc h5 {
+	font-family: Courier New;
+}
+.cont .xyz {
+	margin-top: -40%;
+	margin-right: 10%;
+}
+.cont .xyz h3 {
+	margin-left: 50%;
+	font-family: Segoe Print;
+}
+.cont .xyz h5 {
+	margin-left: 50%;
+	font-family: Courier New;
+}
+.cont hr {
+	margin-right: 50px;
+}
+.wht .jumbotron {
+	margin-top: 30%;	
+	text-align: center;
+}
