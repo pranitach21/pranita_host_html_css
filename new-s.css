@@ -32,6 +32,14 @@
 	margin-left: 5%;
 	font-family: Segoe Print;
 }
+.cont container div{
+	width: 180px;
+  	height: 10px;
+  	padding: 20px;
+  	border: 1px solid black;
+  	box-sizing: border-box;
+	margin:1px;
+}
 .cont .abc h5 {
 	color: blue;
 	margin-left: 5%;
@@ -47,7 +55,7 @@
 	font-family: Courier New;
 }
 .cont .xyz {
-	margin-top: -40%;
+	margin-top: -60%;
 	margin-right: 10%;
 }
 .cont .xyz h6 {
