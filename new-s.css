@@ -12,8 +12,30 @@
 .cont{
 	margin-left: 5%;
 }
-.cont .abc h5{
-	margin-left: 5%: 
+.cont .abc h1 {
+	color: blue;
+	margin-left: 1%;
+	font-family: Segoe Print;
+}
+.cont .abc h2 {
+	color: blue;
+	margin-left: 1%;
+	font-family: Segoe Print;
+}
+.cont .abc h3 {
+	color: blue;
+	margin-left: 5%;
+	font-family: Segoe Print;
+}
+.cont .abc h4 {
+	color: blue;
+	margin-left: 5%;
+	font-family: Segoe Print;
+}
+.cont .abc h5 {
+	color: blue;
+	margin-left: 5%;
+	font-family: Segoe Print;
 }
 .cont .abc .imgs img {
 	border: 1px solid black;
@@ -21,24 +43,29 @@
 	height: 250px;
 	border-radius: 50%;
 }
-.cont .abc hr {
-	width: 30%;
-}
-.cont .abc h3 {
-	font-family: Segoe Print;
-}
-.cont .abc h5 {
+.cont .abc p{	color: black;
 	font-family: Courier New;
 }
 .cont .xyz {
 	margin-top: -40%;
 	margin-right: 10%;
 }
-.cont .xyz h3 {
+.cont .xyz h6 {
+	color: blue;
 	margin-left: 50%;
 	font-family: Segoe Print;
 }
-.cont .xyz h5 {
+.cont .xyz h7 {
+	color: blue;
+	margin-left: 50%;
+	font-family: Segoe Print;
+}
+.cont .xyz h8 {
+	color: blue;
+	margin-left: 50%;
+	font-family: Segoe Print;
+}
+.cont .xyz p{	color: black;
 	margin-left: 50%;
 	font-family: Courier New;
 }
